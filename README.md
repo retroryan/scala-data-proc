@@ -3,7 +3,7 @@
 This is a quick introduction to using Scala with
 [Google Cloud Dataproc](https://cloud.google.com/dataproc/)
 
-The dataproc documentation about using Scala is out of sync and doesn't have some of the most current approaches to Scala development.
+I found some of the dataproc documentation about using Scala is out of sync so this contains a recommended approach to get things working.
 
 ## Scala Setup with sbt
 
