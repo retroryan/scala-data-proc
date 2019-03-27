@@ -17,7 +17,7 @@ On a mac sbt can be installed with:
 brew install sbt
 ```
 
-On linux [follow these instructions] (https://www.scala-sbt.org/1.0/docs/Installing-sbt-on-Linux.html)
+On linux [follow these instructions](https://www.scala-sbt.org/1.0/docs/Installing-sbt-on-Linux.html)
 
 This repo contains a sample Scala project. If you want to create a new Scala project from scratch the easiest way is with the sbt template resolver.
 
